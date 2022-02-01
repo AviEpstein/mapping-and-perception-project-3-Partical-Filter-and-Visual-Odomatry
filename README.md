@@ -2,8 +2,10 @@
 
 Abstract
 In this project we will be implementing and analyzing the following algorithms:
+
 ● Particle filter
 ● Visual Odometry (mono)
+
 In the first section we will implement the Particle filter algorithm, we will load a pre defined data 
 set containing landmarks and odamatry data. using this we will plot the ground truth trajectory 
 starting at point (𝑥0
