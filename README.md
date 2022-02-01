@@ -33,6 +33,8 @@ convergence to the true trajectory. We then calculate the MSE from the 50th fram
 pose of the particle with the highest weight and see how it performs. In addition, will then find 
 the minimal amount of particle's that still give us good performance based on the MSE criteria.
 In the second section we will implement a simple monocular Visual odometry algorithm.
+
+
 We will extract from each frame its features using sift/orb/klt, each one of these feature 
 extractions work a little different and will be explained in this report we then match the found 
 features in both frame using brute force matching or FLANN, to get corresponding points 
