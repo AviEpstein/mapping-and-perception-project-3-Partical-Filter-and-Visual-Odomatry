@@ -49,3 +49,5 @@ such as IMU info or lidar (in our case we used the ground truth trajectory).
 We then concatenate all these translations to get the full trajectory estimated from our mono 
 camera rotation and translation we will see how this scale improves the result and why we 
 receive drift in our trajectory.
+
+# more information about result analysis algorithim and code read the full project 3 pdf report!
